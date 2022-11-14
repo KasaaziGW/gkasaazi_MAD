@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="enterName">Enter your Name here</string>
+    <string name="greeting">Hello </string>
+    <string name="buttonHello">Say Hello</string>
+    <string name="scotty">Scotty, The CMU Mascot</string>
+</resources>
