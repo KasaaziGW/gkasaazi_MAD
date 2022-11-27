@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">To-Do App</string>
+    <string name="title">To-Do List</string>
+    <string name="addItem">Add Item to List</string>
+    <string name="addTask">Add Task</string>
+    <string name="cancel">Cancel</string>
+    <string name="task">Task</string>
+    <string name="taskAdded">New Task Added</string>
+    <string name="confirm">Confirm</string>
+    <string name="decline">Decline</string>
+    <string name="remove">Remove </string>
+    <string name="removeTask">Remove Task?</string>
+    <string name="taskRemoved">Task Removed</string>
+    <string name="screen_home_swipe_delete_task">Delete Task</string>
+</resources>
