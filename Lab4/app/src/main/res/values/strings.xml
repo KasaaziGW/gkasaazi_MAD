@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="not_implemented">Feature not implemented yet!</string>
+    <string name="view">View</string>
+    <string name="students">Students</string>
+    <string name="professors">Professors</string>
+    <string name="courses">Courses</string>
+    <string name="name">Name: </string>
+    <string name="courseName">Course Name: </string>
+    <string name="program">Programme: </string>
+    <string name="concentration">Concentration: </string>
+    <string name="year">Year </string>
+    <string name="contact">Contact: </string>
+    <string name="status">Marital Status: </string>
+    <string name="units">Units: </string>
+    <string name="semester">Semester Offered: </string>
+</resources>
